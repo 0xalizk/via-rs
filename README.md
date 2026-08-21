@@ -1,3 +1,5 @@
+Read [this](https://0xalizk.github.io/via-rs/params-gaps.html) before proceeding!
+
 ## via-rs
 
 A pure-Rust, `no_std` implementation of the **VIA** family of single-server
